@@ -1,0 +1,3 @@
+user_id,username,email,password
+1,johndoe,johndoe@example.com,"user1@password"
+2,janedoe,janedoe@example.com,"user2@password"
